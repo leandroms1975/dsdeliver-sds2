@@ -2,6 +2,7 @@ import './styles.css';
 import { ReactComponent as MainImage, ReactComponent } from './main.svg';
 import Footer from '../Footer';
 
+
 function Home() {
     return (
         <>
